@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "author": "John Doe",
+      "content": "Just created an amazing SVG using the new tool! 🎉 #SVGDesign #CreativityUnleashed",
+      "likes": 10,
+      "dislikes": 2,
+      "component": "SVGEditor",
+      "timestamp": "2023-06-10T10:30:00Z",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Jane Smith",
+          "content": "Wow, that looks incredible! Great job!",
+          "timestamp": "2023-06-10T11:15:00Z"
+        },
+        {
+          "id": 2,
+          "author": "Mike Johnson",
+          "content": "I love the colors you used. Keep up the amazing work!",
+          "timestamp": "2023-06-10T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "author": "Jane Smith",
+      "content": "Excited to share my latest SVG creation! Let me know what you think. 😊 #SVGArt #DesignCommunity",
+      "likes": 7,
+      "dislikes": 1,
+      "component": "SVGGallery",
+      "timestamp": "2023-06-09T15:45:00Z",
+      "comments": [
+        {
+          "id": 3,
+          "author": "Sarah Davis",
+          "content": "This is so creative! I'm impressed!",
+          "timestamp": "2023-06-09T16:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "author": "Mike Johnson",
+      "content": "Collaborated with a fellow designer on this SVG project. Proud of the result! 🤝 #Collaboration #SVGMasters",
+      "likes": 15,
+      "dislikes": 0,
+      "component": "CollaborationTool",
+      "timestamp": "2023-06-08T09:00:00Z",
+      "comments": []
+    },
+    {
+      "id": 4,
+      "author": "Sarah Davis",
+      "content": "Just stumbled upon this incredible SVG library. Game-changer for designers! 🔥 #SVGResources #DesignInspo",
+      "likes": 12,
+      "dislikes": 3,
+      "component": "ResourceLibrary",
+      "timestamp": "2023-06-07T14:20:00Z",
+      "comments": [
+        {
+          "id": 4,
+          "author": "John Doe",
+          "content": "Thanks for sharing! I'll definitely check it out.",
+          "timestamp": "2023-06-07T15:10:00Z"
+        }
+      ]
+    }
+  ]
