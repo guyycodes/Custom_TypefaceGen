@@ -9,7 +9,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'robots.txt', '*.jpg', '*.png'], // Include all assets to be cached
       manifest: {
-        name: 'SVG Generator',
+        name: 'SVG & Typeface Generator',
         short_name: 'SVGGen',
         description: 'Generate SVG paths from Google Fonts',
         theme_color: '#ffffff',
