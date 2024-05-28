@@ -1,6 +1,7 @@
 # Custom TypefaceGen
 
 Custom TypefaceGen is a web-based application that allows users to generate custom typefaces and export them in various formats, including SVG and .dxm for CNC and 3D printing. The application is built as a Progressive Web App (PWA), providing a seamless and responsive user experience across different devices.
+visit it live here: https://customtypeface.com
 
 ## Features
 
